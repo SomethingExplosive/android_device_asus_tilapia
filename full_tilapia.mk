@@ -28,5 +28,6 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base.mk)
 # Discard inherited values and use our own instead.
 PRODUCT_NAME := full_tilapia
 PRODUCT_DEVICE := tilapia
-PRODUCT_BRAND := Android
-PRODUCT_MODEL := Full Android on Tilapia
+PRODUCT_BRAND := Google
+PRODUCT_MODEL := Nexus 7
+PRODUCT_MANUFACTURER := Asus
